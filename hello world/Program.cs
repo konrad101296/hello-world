@@ -7,5 +7,6 @@ internal class Program
     {
 
         Console.WriteLine("hello world");
+        Console.WriteLine("nazywam sie Konrad");
     }
 }
